@@ -1,0 +1,95 @@
+body {
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+  background-color: rgb(223, 193, 96);
+  color:#292929;
+  text-align: center;
+}
+
+body:hover {
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+}
+
+p {
+  width: 600px;
+  display: inline-block;
+}
+
+form {
+  margin-top: 20px;
+  padding: 20px;
+  display: inline-block;
+}
+
+textarea {
+  border-radius: 10px;
+  border-color: rgb(223, 211, 104);
+  background-color:#EFFDFF;
+}
+
+textarea:hover {
+  border-radius: 10px;
+  border-color: rgb(238, 222, 79);
+  border-width:5px;
+}
+
+input {
+  font-size: 25px;
+  margin-top: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 10px;
+  border-color: rgb(223, 211, 104);
+  background-color:#EFFDFF;
+}
+
+input:hover{
+  font-size: 25px;
+  margin-top: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 10px;
+  border-width: thick;
+  border-color: rgb(238, 222, 79);
+}
+
+.enhance{
+  font-size: 1.5rem;
+  font-family: serif;
+  justify-content: center;
+  background-color: #ff4400;
+  width : 50%;
+  margin-bottom: 10px;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 10px;
+}
+.enhance1{
+  font-size: 1.5rem;
+  font-family: serif;
+  justify-content: center;
+  background-color: #33ff00;
+  width : 50%;
+  margin-bottom: 10px;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 10px;
+}
+.enhance2{
+  font-size: 1.5rem;
+  font-family: serif;
+  justify-content: center;
+  background-color: #dcec00;
+  width : 50%;
+  margin-bottom: 10px;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 10px;
+}
